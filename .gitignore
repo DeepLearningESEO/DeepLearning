@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Dossier à ignorer pour le projet
+TextOCR/
+TMNIST/
 # C extensions
 *.so
 
@@ -36,7 +39,7 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Unit test / coverage reports
+# Unit Test / coverage reports
 htmlcov/
 .tox/
 .nox/
